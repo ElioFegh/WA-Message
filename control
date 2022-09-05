@@ -1,0 +1,9 @@
+Package: com.eliofegh.nwm
+Name: WA-Message
+Version: 1.1
+Architecture: iphoneos-arm
+Description: hide WA message
+Maintainer: ElioFegh
+Author: ElioFegh
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
